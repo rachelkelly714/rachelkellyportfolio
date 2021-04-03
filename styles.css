@@ -1,0 +1,191 @@
+.navbar-nav {
+    font-family: 'Montserrat', sans-serif;
+    position: right;
+    text-align: center;
+    float: right;
+    font-size: 20px;
+
+
+}
+
+.nav.navbar-nav li a {
+    color: ffff;
+  }
+ 
+  .nav.navbar-nav li a:hover {
+      color: rgb(250, 134, 211);
+  }
+
+.hero-image {
+background: url("01-03-Assets/peony3bg.jpg");
+width: 100vw;
+height: 70vh;
+background-repeat: no-repeat;
+position: relative;
+background-size: auto ;
+border-bottom: 5px solid #333;
+
+}
+
+ #hero-text {
+    position: relative;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 75px;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:rgb(80, 6, 80);
+    
+  
+    
+    
+
+}
+
+#hero-desu {
+    position: relative;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(80, 6, 80);
+}
+
+#h1am {
+    text-align: center;
+    font-family: 'Montserrat' , sans-seif;
+}
+
+.about-me-section {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: white;
+    border-image: url("01-03-Assets/peony3bg.jpg") 30 round;
+
+
+}
+
+.about-me-text {
+    font-family: 'Montserrat' , sans-serif;
+    font-size: 20px;
+    border: 10px solid pink;
+    color:rgb(80, 6, 80)
+  
+   
+
+
+    
+}
+.me-pic-left {
+    border: 10px solid  pink;
+    
+}
+
+#abtext {
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+
+
+}
+
+.skills-section {
+   
+    display: grid;
+    grid-template-columns: repeat(3, .5fr);
+    grid-gap: 50px;
+ justify-content: center;
+ align-content: center;
+ margin-left: 350px;
+ margin-right: 150px;
+ margin-top: 65px;
+}
+
+#sandp{
+    font-family: 'Montserrat' , sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    color:rgb(80, 6, 80)
+
+}
+
+#myproj{
+    font-family: 'Montserrat' , sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    color:rgb(80, 6, 80)
+}
+
+
+
+
+.project-section{
+   
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 25px;
+ justify-content: center;
+ align-content: center;
+ margin-left: 350px;
+ margin-right: 150px;
+ margin-top: 65px;
+
+}
+
+
+
+#cmm{
+    font-family: 'Montserrat' , sans-serif;
+    text-align:left;
+    font-size: 30px;
+    margin-top: 50px;
+    color:rgb(80, 6, 80);
+}
+
+
+input{
+  display: block;
+  margin: 1em;
+}
+input[type="text"] {
+  background: #ff99a8;
+  padding: 1em;
+  border-radius: 8px;
+}
+input[type="email"]{
+  background: #ff99a8;
+  padding: 1em;
+  border-radius: 8px;
+}
+dding: 1em;
+  border-radius: 8px;
+}
+gin: 0;
+font-family: 'Montserrat' , sans serif;
+font-style: bold;
+font-size: 15px;}
+labels,
+input{
+  display: block;
+  margin: 1em;
+}
+input[type="text"] {
+  background: #ff99a8;
+
+}
+
+.contact{
+    font-family: 'Montserrat', sans serif;
+    font-size: 20px;
+}
+
+.ftt{
+background-color: pink;
+text-align: center;
+}
